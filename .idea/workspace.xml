@@ -2,16 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf3ee74d-e0e0-4f6b-a392-31a6c5098b64" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/IsPositiveMatcher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SpecialFractionMatcher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ValidSignFractionMatcher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/AssertJTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/AssertJTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/HamcrestTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/HamcrestTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/AssertJTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/AssertJTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Fraction.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Fraction.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/HamcrestTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/HamcrestTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -100,22 +93,22 @@
       <screen x="0" y="0" width="1920" height="1030" />
     </state>
     <state x="708" y="341" width="503" height="360" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1030@0.0.1920.1030" timestamp="1584994933213" />
-    <state width="1864" height="258" key="GridCell.Tab.0.bottom" timestamp="1584998557687">
+    <state width="1864" height="258" key="GridCell.Tab.0.bottom" timestamp="1584998860089">
       <screen x="0" y="0" width="1920" height="1030" />
     </state>
-    <state width="1864" height="258" key="GridCell.Tab.0.bottom/0.0.1920.1030@0.0.1920.1030" timestamp="1584998557687" />
-    <state width="1864" height="258" key="GridCell.Tab.0.center" timestamp="1584998557686">
+    <state width="1864" height="258" key="GridCell.Tab.0.bottom/0.0.1920.1030@0.0.1920.1030" timestamp="1584998860089" />
+    <state width="1864" height="258" key="GridCell.Tab.0.center" timestamp="1584998860088">
       <screen x="0" y="0" width="1920" height="1030" />
     </state>
-    <state width="1864" height="258" key="GridCell.Tab.0.center/0.0.1920.1030@0.0.1920.1030" timestamp="1584998557686" />
-    <state width="1864" height="258" key="GridCell.Tab.0.left" timestamp="1584998557686">
+    <state width="1864" height="258" key="GridCell.Tab.0.center/0.0.1920.1030@0.0.1920.1030" timestamp="1584998860088" />
+    <state width="1864" height="258" key="GridCell.Tab.0.left" timestamp="1584998860088">
       <screen x="0" y="0" width="1920" height="1030" />
     </state>
-    <state width="1864" height="258" key="GridCell.Tab.0.left/0.0.1920.1030@0.0.1920.1030" timestamp="1584998557686" />
-    <state width="1864" height="258" key="GridCell.Tab.0.right" timestamp="1584998557687">
+    <state width="1864" height="258" key="GridCell.Tab.0.left/0.0.1920.1030@0.0.1920.1030" timestamp="1584998860088" />
+    <state width="1864" height="258" key="GridCell.Tab.0.right" timestamp="1584998860088">
       <screen x="0" y="0" width="1920" height="1030" />
     </state>
-    <state width="1864" height="258" key="GridCell.Tab.0.right/0.0.1920.1030@0.0.1920.1030" timestamp="1584998557687" />
+    <state width="1864" height="258" key="GridCell.Tab.0.right/0.0.1920.1030@0.0.1920.1030" timestamp="1584998860088" />
     <state x="373" y="82" key="Maven.ArtifactSearchDialog" timestamp="1584956031161">
       <screen x="0" y="0" width="1920" height="1030" />
     </state>
