@@ -4,7 +4,12 @@
     <list default="true" id="bf3ee74d-e0e0-4f6b-a392-31a6c5098b64" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/IsPositiveMatcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/IsPositiveMatcher.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/Fraction.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Fraction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/AssertJTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/AssertJTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/HamcrestTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/HamcrestTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-AssertJTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-AssertJTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-HamcrestTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-HamcrestTest.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/HamcrestTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/HamcrestTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -13,7 +18,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageViewManager">
-    <option name="myElementSize" value="165" />
+    <option name="myElementSize" value="125" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -45,7 +50,7 @@
       <recent name="C:\Users\mchud\GIT JAVA TESTS\Zad3Lab6\src\test\java" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.HamcrestTest">
+  <component name="RunManager" selected="JUnit.AssertJTest">
     <configuration name="AssertJTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Zad4Lab6" />
       <option name="PACKAGE_NAME" value="" />
@@ -66,8 +71,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.HamcrestTest" />
         <item itemvalue="JUnit.AssertJTest" />
+        <item itemvalue="JUnit.HamcrestTest" />
       </list>
     </recent_temporary>
   </component>
@@ -93,22 +98,22 @@
       <screen x="0" y="0" width="1920" height="1030" />
     </state>
     <state x="708" y="341" width="503" height="360" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1030@0.0.1920.1030" timestamp="1584994933213" />
-    <state width="1864" height="258" key="GridCell.Tab.0.bottom" timestamp="1584998860089">
+    <state width="1864" height="258" key="GridCell.Tab.0.bottom" timestamp="1585000544470">
       <screen x="0" y="0" width="1920" height="1030" />
     </state>
-    <state width="1864" height="258" key="GridCell.Tab.0.bottom/0.0.1920.1030@0.0.1920.1030" timestamp="1584998860089" />
-    <state width="1864" height="258" key="GridCell.Tab.0.center" timestamp="1584998860088">
+    <state width="1864" height="258" key="GridCell.Tab.0.bottom/0.0.1920.1030@0.0.1920.1030" timestamp="1585000544470" />
+    <state width="1864" height="258" key="GridCell.Tab.0.center" timestamp="1585000544469">
       <screen x="0" y="0" width="1920" height="1030" />
     </state>
-    <state width="1864" height="258" key="GridCell.Tab.0.center/0.0.1920.1030@0.0.1920.1030" timestamp="1584998860088" />
-    <state width="1864" height="258" key="GridCell.Tab.0.left" timestamp="1584998860088">
+    <state width="1864" height="258" key="GridCell.Tab.0.center/0.0.1920.1030@0.0.1920.1030" timestamp="1585000544469" />
+    <state width="1864" height="258" key="GridCell.Tab.0.left" timestamp="1585000544469">
       <screen x="0" y="0" width="1920" height="1030" />
     </state>
-    <state width="1864" height="258" key="GridCell.Tab.0.left/0.0.1920.1030@0.0.1920.1030" timestamp="1584998860088" />
-    <state width="1864" height="258" key="GridCell.Tab.0.right" timestamp="1584998860088">
+    <state width="1864" height="258" key="GridCell.Tab.0.left/0.0.1920.1030@0.0.1920.1030" timestamp="1585000544469" />
+    <state width="1864" height="258" key="GridCell.Tab.0.right" timestamp="1585000544469">
       <screen x="0" y="0" width="1920" height="1030" />
     </state>
-    <state width="1864" height="258" key="GridCell.Tab.0.right/0.0.1920.1030@0.0.1920.1030" timestamp="1584998860088" />
+    <state width="1864" height="258" key="GridCell.Tab.0.right/0.0.1920.1030@0.0.1920.1030" timestamp="1585000544469" />
     <state x="373" y="82" key="Maven.ArtifactSearchDialog" timestamp="1584956031161">
       <screen x="0" y="0" width="1920" height="1030" />
     </state>
@@ -128,7 +133,8 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Zad3Lab6$HamcrestTest.ic" NAME="HamcrestTest Coverage Results" MODIFIED="1584998429220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
-    <SUITE FILE_PATH="coverage/Zad4Lab6$HamcrestTest.ic" NAME="HamcrestTest Coverage Results" MODIFIED="1584998554579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Zad4Lab6$HamcrestTest.ic" NAME="HamcrestTest Coverage Results" MODIFIED="1585000034026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/Zad3Lab6$AssertJTest.ic" NAME="AssertJTest Coverage Results" MODIFIED="1584995986975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Zad4Lab6$AssertJTest.ic" NAME="AssertJTest Coverage Results" MODIFIED="1585000544431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>

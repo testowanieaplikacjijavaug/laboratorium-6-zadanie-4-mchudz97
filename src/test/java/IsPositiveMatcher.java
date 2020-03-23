@@ -4,26 +4,26 @@ public class IsPositiveMatcher extends AbstractAssert<IsPositiveMatcher, Fractio
 
 
     public IsPositiveMatcher(Fraction fraction) {
-        super(fraction, Fraction.class);
+        super(fraction, IsPositiveMatcher.class);
     }
 
     public static IsPositiveMatcher assertThat(Fraction actual) {
         return new IsPositiveMatcher(actual);
     }
 
-    public boolean isPositive(){
+    public IsPositiveMatcher isPositive(){
         isNotNull();
-        if(actual.getNominator() >= 0){
-           return true;
+        if(actual.getNominator() < 0){
+            failWithMessage("Fraction isnt positive");
         }
-        return false;
+        return this;
     }
-    public boolean isZero(){
+    public IsPositiveMatcher isZero(){
         isNotNull();
-        if(actual.getNominator() == 0 && actual.getDenominator() != 0){
-            return true;
+        if(actual.getNominator() != 0 || actual.getDenominator() == 0){
+            failWithMessage("Fraction isnt zero");
         }
-        return false;
+        return this;
     }
 
 
